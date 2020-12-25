@@ -1,0 +1,35 @@
+﻿  game.cpp
+C:\Users\crist\source\repos\Snake Game\game.cpp(32,16): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(33,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(33,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(34,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(58,41): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(58,30): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(58,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(58,10): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\crist\source\repos\Snake Game\game.cpp(90,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\crist\source\repos\Snake Game\game.cpp(104,13): warning C4305: +=: усечение из "double" в "float"
+  main.cpp
+C:\Users\crist\source\repos\Snake Game\main.cpp(19,21): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+freeglut_static.lib(freeglut_callbacks.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_callbacks.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_cursor.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_cursor.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_display.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_display.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_font.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_font.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_font_data.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_font_data.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_init.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_init.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_input_devices.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_input_devices.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_joystick.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_joystick.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_main.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_main.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_menu.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_menu.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_state.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_state.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_stroke_mono_roman.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_stroke_mono_roman.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_stroke_roman.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_stroke_roman.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_structure.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_structure.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+freeglut_static.lib(freeglut_window.obj) : warning LNK4099: "freeglut_static.pdb" PDB не найден с "freeglut_static.lib(freeglut_window.obj)" или на "C:\Users\crist\source\repos\SankeGame\Release\freeglut_static.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+  SankeGame.vcxproj -> C:\Users\crist\source\repos\SankeGame\Release\SankeGame.exe
